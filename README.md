@@ -3,6 +3,8 @@ A small game inspired by Bayblade.
 
 We make our choice and watch :D
 
+Try it : https://systembug.itch.io/bubble-fight
+
 In App:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6ca72b53-8a77-4071-8fa5-ce59d0fac17d" width="180"/>
